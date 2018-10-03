@@ -44,7 +44,7 @@ Here in this project, we use the following settings:
 * Indent using spaces
 * Set tab width to 4 spaces (keeps the matrices in source code aligned)
 
-## Code Style
+## Coding Style
 
 Please (do our best to) stick to [Google's C++ style guide](https://google.github.io/styleguide/cppguide.html).
 
