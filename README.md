@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a [PID controller](https://en.wikipedia.org/wiki/PID_controller) to control a car in the car simulator([which can be downloaded here](https://github.com/udacity/self-driving-car-sim/releases)). The simulator sends cross-track error, speed and angle to the PID controller(PID) using [WebSocket](https://en.wikipedia.org/wiki/WebSocket) and it receives the steering angle ([-1, 1] normalized) and the throttle to drive the car. The PID uses the [uWebSockets](https://github.com/uNetworking/uWebSockets) WebSocket implementation. Udacity provides a ([seed project](https://github.com/udacity/CarND-PID-Control-Project)) for us to start with.
+This project implements a [PID controller](https://en.wikipedia.org/wiki/PID_controller) to control a car in the car simulator([which can be downloaded here](https://github.com/udacity/self-driving-car-sim/releases)). The simulator sends cross-track error, speed and angle to the PID controller(PID) using [WebSocket](https://en.wikipedia.org/wiki/WebSocket) and it receives the steering angle ([-1, 1] normalized) and the throttle to drive the car. The PID uses the [uWebSockets](https://github.com/uNetworking/uWebSockets) WebSocket implementation.
 
 ## Dependencies
 
