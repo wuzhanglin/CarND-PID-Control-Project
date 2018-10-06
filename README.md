@@ -56,6 +56,8 @@ Here is the start view of the simulator:
 
 ![Start View of the Simulator](README-images/start.png)
 
+(Note: Click the "Select" button to start the simulation)
+
 ### Start the PID Controller
 
 Run the `./pid`, and here is the output:
